@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <Esteban> -- <Dueño>
+    <Damián> -- <Dueño>
+
+# THANKS
+
+    <A toda nuestra familia y amigos>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    jQuery, Normalize.css
